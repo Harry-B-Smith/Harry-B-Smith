@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Java development
 - 🌱 I’m currently learning Rest API
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me by email.
+- 📫 Email me at harrybsmithiv@gmail.com
 
 <!---
 Harry-B-Smith/Harry-B-Smith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
