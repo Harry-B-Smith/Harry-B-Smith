@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harry Smith</h1>
-<h3 align="center">A enthusiastic and energetic Full Stack Developer</h3>
+<h3 align="center">An enthusiastic and energetic Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry-b-smith&label=Profile%20views&color=0e75b6&style=flat" alt="harry-b-smith" /> </p>
 
