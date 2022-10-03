@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1_O831-9WOgnORVbmSsMx_vBCu1ubgK7lxpzvnBxP2pM/edit?usp=sharing](https://docs.google.com/document/d/1_O831-9WOgnORVbmSsMx_vBCu1ubgK7lxpzvnBxP2pM/edit?usp=sharing)
 
-- ⚡ Fun fact **I have a Golden Retriever**
+- ⚡ Fun fact **I lived in Thailand for 7 years, and I have a Golden Retriever**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
