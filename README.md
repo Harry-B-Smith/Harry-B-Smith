@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry-b-smith&label=Profile%20views&color=0e75b6&style=flat" alt="harry-b-smith" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot and Rest API**
+- 🌱 I’m currently learning **Angular/React**
 
 - 📫 How to reach me **harrybsmithiv@gmail.com**
 
