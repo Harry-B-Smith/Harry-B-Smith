@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harrybsmithiv@gmail.com**
 
-- 📄 My experience (resume) [https://docs.google.com/document/d/1_O831-9WOgnORVbmSsMx_vBCu1ubgK7lxpzvnBxP2pM/edit?usp=sharing](https://docs.google.com/document/d/1_O831-9WOgnORVbmSsMx_vBCu1ubgK7lxpzvnBxP2pM/edit?usp=sharing)
+- 📄 My experience (resume) https://docs.google.com/document/d/1fg1TVdsnU5rFH-EGhpKJmgMBa5f1s4JBYZqk6diNXSk/edit?usp=sharing
 
 - ⚡ Fun fact **I lived in Thailand for 7 years, and I have a Golden Retriever**
 
