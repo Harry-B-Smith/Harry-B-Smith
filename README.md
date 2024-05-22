@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harry</h1>
-<h3 align="center">A Self-taught software engineer</h3>
+<h3 align="center">A Java Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry-b-smith&label=Profile%20views&color=0e75b6&style=flat" alt="harry-b-smith" /> </p>
 
-- 🌱 I’m currently learning **React/Docker/Kubernetes/AWS**
+- 🌱 I’m currently learning **React/AWS**
 
 - 📫 How to reach me **harrybsmithiv@gmail.com**
 
