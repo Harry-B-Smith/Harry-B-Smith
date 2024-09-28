@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harry-b-smith&label=Profile%20views&color=0e75b6&style=flat" alt="harry-b-smith" /> </p>
 
-- 🌱 I’m currently learning **React/AWS**
+- 🌱 I’m currently learning **Angular/GCP**
 
 - 📫 How to reach me **harrybsmithiv@gmail.com**
 
 - 📄 My experience (resume) https://docs.google.com/document/d/1fg1TVdsnU5rFH-EGhpKJmgMBa5f1s4JBYZqk6diNXSk/edit?usp=sharing
 
-- ⚡ Fun fact **I lived in Thailand for 7 years, and I have a Golden Retriever**
+- ⚡ Fun fact **My preferred developmenet env is Arch Linux btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
