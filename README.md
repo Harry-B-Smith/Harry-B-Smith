@@ -9,7 +9,7 @@
 
 - 📄 My experience (resume) https://docs.google.com/document/d/1fg1TVdsnU5rFH-EGhpKJmgMBa5f1s4JBYZqk6diNXSk/edit?usp=sharing
 
-- ⚡ Fun fact **My preferred developmenet env is Arch Linux btw**
+- ⚡ Fun fact **My preferred development env is Arch Linux btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
